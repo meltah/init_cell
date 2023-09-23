@@ -1,0 +1,13 @@
+[package]
+name = "init_cell"
+version = "0.1.0"
+edition = "2021"
+authors = ["Mazin Eltahawy <mazintahawy@gmail.com>"]
+license = "MIT OR Apache-2.0"
+
+description = "A safe-to-access, unsafely-initialized cell."
+documentation = "https://docs.rs/init_cell"
+
+repository = "https://github.com/meltah/init_cell"
+
+[dependencies]
